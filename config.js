@@ -3,7 +3,7 @@ import * as firebase from 'firebase';
 require('@firebase/firestore');
 
 
-var firebaseConfig = {
+const firebaseConfig = {
     apiKey: "AIzaSyCllhi-k5wGKoViN8-CB_BSAav6UP2ExKo",
     authDomain: "booksanta-ca6c9.firebaseapp.com",
     projectId: "booksanta-ca6c9",
